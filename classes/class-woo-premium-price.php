@@ -4,9 +4,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
 
-/**
- * @class 		Woo_Premium_Price
- * @version		1.0.0
+/** 
+ * Woo_Premium_Price manages all frontend attributes of the plugin
  */
 class Woo_Premium_Price {
 
