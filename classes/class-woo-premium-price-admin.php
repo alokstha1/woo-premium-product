@@ -4,9 +4,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
 
-/**
- * @class 		Woo_Premium_Price_Admin
- * @version		1.0.0
+/** 
+ * Woo_Premium_Price_Admin manages all admin attributes of the plugin
  */
 class Woo_Premium_Price_Admin {
 
